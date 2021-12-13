@@ -1,0 +1,1 @@
+export const BASE_PATH='https://api.itbook.store/1.0';
